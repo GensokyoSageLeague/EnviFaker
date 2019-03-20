@@ -2,12 +2,9 @@
 
 ## State
 
-```
-Under Construction
-```
+Travis build status of branch master
 
-Travis build status of branch master:
-[](https://travis-ci.com/GensokyoSageLeague/EnviFaker.svg?branch=master)
+![](https://travis-ci.com/GensokyoSageLeague/EnviFaker.svg?branch=master)
 
 ## Build
 
