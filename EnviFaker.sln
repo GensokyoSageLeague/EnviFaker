@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnviFaker.Shared", "EnviFaker.Shared\EnviFaker.Shared.csproj", "{685FF140-4A00-4C71-8551-E92C487F7124}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnviFaker.UI", "EnviFaker.UI\EnviFaker.UI.csproj", "{9B2EF95B-D82C-47CF-835D-0D60D43CF80B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnviFaker.Data", "EnviFaker.Data\EnviFaker.Data.csproj", "{BEA0E26F-B1A3-423A-B29B-30B31089BFBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{685FF140-4A00-4C71-8551-E92C487F7124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{685FF140-4A00-4C71-8551-E92C487F7124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{685FF140-4A00-4C71-8551-E92C487F7124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{685FF140-4A00-4C71-8551-E92C487F7124}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B2EF95B-D82C-47CF-835D-0D60D43CF80B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B2EF95B-D82C-47CF-835D-0D60D43CF80B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B2EF95B-D82C-47CF-835D-0D60D43CF80B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B2EF95B-D82C-47CF-835D-0D60D43CF80B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEA0E26F-B1A3-423A-B29B-30B31089BFBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEA0E26F-B1A3-423A-B29B-30B31089BFBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEA0E26F-B1A3-423A-B29B-30B31089BFBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEA0E26F-B1A3-423A-B29B-30B31089BFBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
