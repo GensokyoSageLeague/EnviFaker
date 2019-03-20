@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EnviFaker.Shared {
-	public class CodeExample {
+namespace EnviFaker.Data {
+	class bsq2bil {
 	}
 }

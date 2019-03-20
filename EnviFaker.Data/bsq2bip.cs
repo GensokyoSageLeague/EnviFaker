@@ -5,6 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace EnviFaker.Data {
-	public class Class1 {
+	class bsq2bip {
 	}
 }

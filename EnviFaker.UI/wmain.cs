@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace EnviFaker.UI {
-	static class Program {
+	static class Wmain {
 		/// <summary>
 		/// 应用程序的主入口点。
 		/// </summary>
