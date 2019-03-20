@@ -4,7 +4,7 @@
 
 Travis build status of branch master
 
-![](https://travis-ci.com/GensokyoSageLeague/EnviFaker.svg?branch=master)
+[![build status](https://travis-ci.com/GensokyoSageLeague/EnviFaker.svg?branch=master)](https://travis-ci.com/GensokyoSageLeague/EnviFaker)
 
 ## Build
 
