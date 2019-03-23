@@ -5,7 +5,7 @@
 | CI | Branch | State |
 | ------ | ------ | ------ |
 | Travis | master | [![status](https://travis-ci.com/GensokyoSageLeague/EnviFaker.svg?branch=master)](https://travis-ci.com/GensokyoSageLeague/EnviFaker) |
-| AppVeyor | master | ![status](https://ci.appveyor.com/api/projects/status/github/GensokyoSageLeague/EnviFaker?branch=master&svg=true) |
+| AppVeyor | master | [![status](https://ci.appveyor.com/api/projects/status/github/GensokyoSageLeague/EnviFaker?branch=master&svg=true)](https://ci.appveyor.com/project/OkazakiNagisa/EnviFaker) |
 
 ## LICENSE
 
