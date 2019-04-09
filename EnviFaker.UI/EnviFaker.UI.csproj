@@ -47,6 +47,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Config.cs" />
+    <Compile Include="FormOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormOptions.Designer.cs">
+      <DependentUpon>FormOptions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPictureBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPictureBox.Designer.cs">
+      <DependentUpon>FormPictureBox.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormWmain.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -55,6 +67,12 @@
     </Compile>
     <Compile Include="wmain.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormOptions.resx">
+      <DependentUpon>FormOptions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPictureBox.resx">
+      <DependentUpon>FormPictureBox.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormWmain.resx">
       <DependentUpon>FormWmain.cs</DependentUpon>
     </EmbeddedResource>
@@ -79,6 +97,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EnviFaker.Data\EnviFaker.Data.csproj">
+      <Project>{bea0e26f-b1a3-423a-b29b-30b31089bfba}</Project>
+      <Name>EnviFaker.Data</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
